@@ -1,4 +1,4 @@
-![alt text](screenshots/readme.png "Скриншот приложения")​
+![alt text](readme.png "Скриншот приложения")​
 
 
 
